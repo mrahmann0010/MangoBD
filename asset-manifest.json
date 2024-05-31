@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mangoBD/static/css/main.6cd3cf49.css",
+    "main.js": "/mangoBD/static/js/main.70c2dbc1.js",
+    "static/media/mangogarden.png": "/mangoBD/static/media/mangogarden.0dc6be8521e2d5126eb7.png",
+    "static/media/fruit2.jpg": "/mangoBD/static/media/fruit2.9e716a14a468cbea98ab.jpg",
+    "static/media/about-us-hero.jpg": "/mangoBD/static/media/about-us-hero.8b50f1af148a2af7c48f.jpg",
+    "static/media/amrapali.jpg": "/mangoBD/static/media/amrapali.92130804f213daca61cd.jpg",
+    "static/media/langra.jpg": "/mangoBD/static/media/langra.e28f56bee0bed5a888c5.jpg",
+    "static/media/katimon.jpg": "/mangoBD/static/media/katimon.1a8f4c77024f285c20d9.jpg",
+    "static/media/fazli.jpg": "/mangoBD/static/media/fazli.8ec2acf4f25e3d337120.jpg",
+    "static/media/deliver.jpg": "/mangoBD/static/media/deliver.27e7e4c50b0d555125e5.jpg",
+    "static/media/browse.jpg": "/mangoBD/static/media/browse.74bf1b48d5bf70e06008.jpg",
+    "static/media/mango2.jpg": "/mangoBD/static/media/mango2.f076f6a4a00477ec472e.jpg",
+    "static/media/emptyCart.png": "/mangoBD/static/media/emptyCart.a77e8cf4ce223affb98a.png",
+    "static/media/payment.jpg": "/mangoBD/static/media/payment.b7218598d05a0ab3b904.jpg",
+    "index.html": "/mangoBD/index.html",
+    "main.6cd3cf49.css.map": "/mangoBD/static/css/main.6cd3cf49.css.map",
+    "main.70c2dbc1.js.map": "/mangoBD/static/js/main.70c2dbc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cd3cf49.css",
+    "static/js/main.70c2dbc1.js"
+  ]
+}
